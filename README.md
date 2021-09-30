@@ -1,4 +1,4 @@
-play some pokemons while you're here
+play some pokemon while you're here
 
 ![](http://hc.lc:5000/game)
  
