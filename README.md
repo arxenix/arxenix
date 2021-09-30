@@ -8,3 +8,5 @@ play some pokemon while you're here
 | [⬅️](http://hc.lc:5000/input/LEFT) | [⬇️](http://hc.lc:5000/input/DOWN)  | [➡️](http://hc.lc:5000/input/RIGHT) | [⏺️](http://hc.lc:5000/input/START) | [⏏️](http://hc.lc:5000/input/SELECT) |
 
 Made in collaboration with [@nathanfarlow](https://github.com/nathanfarlow)
+
+Source: https://github.com/nathanfarlow/nathanfarlow
